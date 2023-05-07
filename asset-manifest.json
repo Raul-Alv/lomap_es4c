@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://Raul-Alv.github.io/lomap_es4c/static/css/main.c1aa0d57.css",
-    "main.js": "https://Raul-Alv.github.io/lomap_es4c/static/js/main.46e8d655.js",
-    "index.html": "https://Raul-Alv.github.io/lomap_es4c/index.html",
-    "main.c1aa0d57.css.map": "https://Raul-Alv.github.io/lomap_es4c/static/css/main.c1aa0d57.css.map",
-    "main.46e8d655.js.map": "https://Raul-Alv.github.io/lomap_es4c/static/js/main.46e8d655.js.map"
+    "main.css": "https://raul-alv.github.io/lomap_es4c/static/css/main.c1aa0d57.css",
+    "main.js": "https://raul-alv.github.io/lomap_es4c/static/js/main.21be5ddd.js",
+    "index.html": "https://raul-alv.github.io/lomap_es4c/index.html",
+    "main.c1aa0d57.css.map": "https://raul-alv.github.io/lomap_es4c/static/css/main.c1aa0d57.css.map",
+    "main.21be5ddd.js.map": "https://raul-alv.github.io/lomap_es4c/static/js/main.21be5ddd.js.map"
   },
   "entrypoints": [
     "static/css/main.c1aa0d57.css",
-    "static/js/main.46e8d655.js"
+    "static/js/main.21be5ddd.js"
   ]
 }
